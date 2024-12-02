@@ -22,7 +22,7 @@ let questions = [
     question:
       "Which programming language is primarily used for web development?",
     answer: "Javascript",
-    options: ["Python", "C++", "COBOL", "Javascript"],
+    options: ["Javascript", "C++", "COBOL", "Python"],
   },
   {
     numb: 4,
@@ -31,8 +31,8 @@ let questions = [
     options: [
       "Stylish Question Language",
       "Stylesheet Query Language",
-      "Statement Question Language",
       "Structured Query Language",
+      "Statement Query Language",
     ],
   },
   {
