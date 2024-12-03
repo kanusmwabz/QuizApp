@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(253, 253, 253);
+}
+.question-answer-container-div{
+    width: 500px;
+    height: 400px;
+    background-color: blueviolet;
+    align-items: center;
+    justify-items: center;
+    display: block;
+    padding: 20px 40px;
+    margin-top: 180px;
+    margin-left: 300px;
+}
+
+.correct {
+    background-color: green;
+}
+.incorrect {
+    background-color: red;
+}
