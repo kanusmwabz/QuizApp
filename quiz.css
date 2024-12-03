@@ -1,0 +1,81 @@
+/* Button Style */
+button {
+    background-color: #322D29; 
+    color: #ac9c8d; 
+    border: 2px solid black; 
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out; 
+  }
+  
+  /* Hover Effect */
+  button:hover {
+    background-color: #ac9c8d; 
+    color: #322D29;
+    border-color: #000000; }
+
+
+    /* Typography  */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Georgia', serif; 
+    background-color: #EFE9E1; 
+    color: #322D29;
+  }
+  
+  /* Main container */
+  .main-container {
+    width: 100%;
+    padding: 20px;
+    text-align: justify; 
+    line-height: 1.8; 
+    letter-spacing: 0.5px; 
+    font-size: 1rem; 
+    font-family: 'Merriweather', serif;
+  }
+  
+ 
+  
+  
+   h1 {
+    font-size: 2.5rem;
+    text-align: center; 
+    margin-bottom: 20px;
+    font-weight: 700; 
+    font-family: 'Playfair Display', serif; 
+    color: #5e503f; 
+  }
+  
+   h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 700; 
+    font-family: 'Playfair Display', serif; 
+    color: #5e503f; 
+  }
+  
+   h3 {
+    font-size: 1.5rem;
+    text-align: center; 
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif; 
+    color: #5e503f; 
+  }
+  
+  /* Paragraph  */
+  .main-container p {
+    margin-bottom: 15px;
+    text-indent: 20px; 
+    font-family: 'Roboto', sans-serif; 
+  }
+  
+  }
+  
+    
+    
